@@ -1,0 +1,17 @@
+body{
+    background:white url("images/resultbg.jpg") no-repeat;
+    margin : 50px;
+}
+
+a{
+    text-decoration:none;
+    color : white;
+}
+a:hover{
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+ul li{
+    color: #fff;
+}

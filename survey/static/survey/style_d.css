@@ -1,0 +1,14 @@
+body{
+    background:white url("images/detailbg.jpg") no-repeat;
+    margin : 50px;
+}
+
+a{
+    text-decoration:none;
+    color : black;
+}
+a:hover{
+    text-decoration:underline;
+    font-weight: bold;
+    color : white;
+}

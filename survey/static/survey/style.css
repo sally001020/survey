@@ -1,0 +1,12 @@
+body{
+    background:white url("images/bg.png") no-repeat;
+    margin : 50px;
+}
+
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration:underline;
+    font-weight: bold;
+}
